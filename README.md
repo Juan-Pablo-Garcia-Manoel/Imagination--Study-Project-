@@ -1,6 +1,6 @@
 # Imagination (Study Project)
 
-**Direct Access Link to the Game:** [Imagination](https://play.unity.com/en/games/179d7747-f3a1-4968-a5bf-02efd1f69b89/imagination)
+**[Link de Acesso Direto / Direct Access Link to the Game](https://play.unity.com/en/games/179d7747-f3a1-4968-a5bf-02efd1f69b89/imagination)**
 
 **The objective of this game is to guide a rubber ball as it bounces on all the trampolines scattered throughout the scene until it falls into the heart of a volcano. During development, various fundamental concepts were explored to create an immersive experience, including:**
 
