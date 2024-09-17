@@ -36,4 +36,4 @@
 
 **A ideia central é a utilização da imaginação,** onde cada detalhe foi pensado para provocar associações com objetos do mundo real. Alguns elementos remetem diretamente a objetos identificáveis, enquanto outros são mais abstratos, dando margem para a interpretação do jogador. Esta primeira ideia tem como objetivo estimular a criatividade, apresentando um mundo onde a imaginação é o motor principal da experiência. Convido você a acompanhar a evolução deste jogo, à medida que continuo a desenvolver e incorporar novas ideias com base no meu aprendizado e descobertas.
 
-**Feito com Unity**
+*Made with Unity*
